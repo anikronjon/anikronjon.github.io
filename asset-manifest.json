@@ -1,28 +1,27 @@
 {
   "files": {
-    "main.css": "/portfoliov1/static/css/main.c04e36eb.css",
-    "main.js": "/portfoliov1/static/js/main.0d5b5856.js",
+    "main.css": "/portfoliov1/static/css/main.6984fe00.css",
+    "main.js": "/portfoliov1/static/js/main.e9fdda53.js",
     "static/js/787.1f312b8e.chunk.js": "/portfoliov1/static/js/787.1f312b8e.chunk.js",
-    "static/media/avatar.png": "/portfoliov1/static/media/avatar.c64d065f357e3aa5dbfc.png",
-    "static/media/home-main.png": "/portfoliov1/static/media/home-main.99823c907a226ebc0f19.png",
-    "static/media/leaf.png": "/portfoliov1/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/home-bg.jpg": "/portfoliov1/static/media/home-bg.c56b0775990347c45d49.jpg",
-    "static/media/emotion.png": "/portfoliov1/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/codeEditor.png": "/portfoliov1/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/e-mobile.png": "/portfoliov1/static/media/e-mobile.4769f4efb4d3963e1d4b.png",
-    "static/media/blog.png": "/portfoliov1/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.png": "/portfoliov1/static/media/home-main.abe905bc5a8efd7154d9.png",
+    "static/media/map.png": "/portfoliov1/static/media/map.8f1631a4782d3a96a28a.png",
+    "static/media/book.png": "/portfoliov1/static/media/book.3f0c22eaf8aa34dd015e.png",
+    "static/media/e-browser.png": "/portfoliov1/static/media/e-browser.30cbd09a3d3e5e45f2eb.png",
+    "static/media/e-mobile.png": "/portfoliov1/static/media/e-mobile.d6bf3766ffd061622361.png",
+    "static/media/blog.png": "/portfoliov1/static/media/blog.466fabfccb11de359f03.png",
+    "static/media/avatar.png": "/portfoliov1/static/media/avatar.42ba7d3ebab83a82d3ec.png",
     "static/media/about.png": "/portfoliov1/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/AnikRonjon.pdf": "/portfoliov1/static/media/AnikRonjon.0c9be89eee4a680674ed.pdf",
-    "static/media/chatify.png": "/portfoliov1/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/AnikRonjon.pdf": "/portfoliov1/static/media/AnikRonjon.e86e5d30ead67b4ba47b.pdf",
     "static/media/logo.png": "/portfoliov1/static/media/logo.da8c57108926c1e731a2.png",
+    "static/media/Archive.otf": "/portfoliov1/static/media/Archive.9dcaa62ae3d19ece1c3f.otf",
     "static/media/pre.svg": "/portfoliov1/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/portfoliov1/index.html",
-    "main.c04e36eb.css.map": "/portfoliov1/static/css/main.c04e36eb.css.map",
-    "main.0d5b5856.js.map": "/portfoliov1/static/js/main.0d5b5856.js.map",
+    "main.6984fe00.css.map": "/portfoliov1/static/css/main.6984fe00.css.map",
+    "main.e9fdda53.js.map": "/portfoliov1/static/js/main.e9fdda53.js.map",
     "787.1f312b8e.chunk.js.map": "/portfoliov1/static/js/787.1f312b8e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c04e36eb.css",
-    "static/js/main.0d5b5856.js"
+    "static/css/main.6984fe00.css",
+    "static/js/main.e9fdda53.js"
   ]
 }
