@@ -6,3 +6,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-image: linear-gradient(to left, rgb(27 20 41), rgb(20 15 35));
 }
+@font-face {
+  font-family: "Arcive";   /*Can be any text*/
+  src: local("Archive"),
+    url("./Assets/Archive.otf") format("otf");
+}

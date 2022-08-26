@@ -2,12 +2,11 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
+import blog from "../../Assets/Projects/blog.png";
+import book from "../../Assets/Projects/book.png";
+import map from "../../Assets/Projects/map.png";
+import eBrowser from "../../Assets/Projects/e-browser.png";
 import eMobile from "../../Assets/Projects/e-mobile.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
 
 function Projects() {
   return (
@@ -23,7 +22,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={blog}
               isBlog={false}
               title="Blog"
               description="A responsive blog site. It has multiple feature like filter, tag, comment etc."
@@ -34,7 +33,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={book}
               isBlog={false}
               title="Book Shop"
               description="A django project. Where user can search, filtering, checkout and payment. It is responsive for any device."
@@ -45,7 +44,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={eBrowser}
               isBlog={false}
               title="E-commerce"
               description="A responsive ecommerce project that build with django. There have admin and user dashboard, payment system and lots of feature."
@@ -56,7 +55,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+              imgPath={map}
               isBlog={false}
               title="Country Visit"
               description="It is one of my big budget project. It's realy comes handy when you wanna visit a country. It will guide you to fiend hotel, restora, and interective places."
