@@ -19,8 +19,8 @@ button:focus {
 h1,h2,strong{
   font-family: Archive;
 }
-span, p{
-  font-family: sans-serif;
+p{
+  font-family: monospace;
 }
 /* --------- */
 /*  Preloader */

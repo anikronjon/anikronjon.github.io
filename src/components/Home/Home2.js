@@ -34,18 +34,8 @@ function Home2() {
                 </span>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Django</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              I am highly interest to work with <span className="purple">Django</span>,
+              <span className="purple"> React.js</span> Docker etc.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
